@@ -92,4 +92,3 @@ jobs:
         service: ${{ env.ECS_SERVICE }}
         cluster: ${{ env.ECS_CLUSTER 
  https://wallet.1inch.io/wc?uri=wc%3A6f330bac-9830-4312-8e85-290be2c1fce2%401%3Fbridge%3Dhttps%253A%252F%252Fwalletconnect-bridge.1inch.io%26key%3D508fdaec6e74352d2e95775d64c69b4ee4434c36ea8be7b14186f763b441b95f
-https://docs.blockchain.com/pay/api/partner-api/authentication
